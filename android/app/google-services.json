@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "543750294743-qukq2etnu4p8ads5ffarbg5f4oa429dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todolist",
+            "certificate_hash": "bdfca8a3cc45d4d7f9fe39fc940af3cfedb49ae6"
+          }
+        },
+        {
           "client_id": "543750294743-o7qnollb21fmtfhhq8pce6msds7rl1vl.apps.googleusercontent.com",
           "client_type": 3
         }
